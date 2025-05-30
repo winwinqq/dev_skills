@@ -1,6 +1,6 @@
 # 桐谷和人的自我介绍
 
-<img src="https://baike.baidu.com/pic/%E6%A1%90%E8%B0%B7%E5%92%8C%E4%BA%BA/5251890/1/37d12f2eb9389b504fc280c39362f2dde71190efc051?fromModule=lemma_top-image&ct=single#aid=1&pic=37d12f2eb9389b504fc280c39362f2dde71190efc051" width="200" alt="桐谷和人形象">
+<img src="[https://baike.baidu.com/pic/%E6%A1%90%E8%B0%B7%E5%92%8C%E4%BA%BA/5251890/1/37d12f2eb9389b504fc280c39362f2dde71190efc051?fromModule=lemma_top-image&ct=single#aid=1&pic=37d12f2eb9389b504fc280c39362f2dde71190efc051](https://baike.sogou.com/PicBooklet.v?imageGroupId=6144046&relateImageGroupIds=6144046,4521040,4521041,4521042&lemmaId=55059058&category=#6144046_0)" width="200" alt="桐谷和人形象">
 
 大家好，我是**桐谷和人**，我的身份是*SAO生还者*。以下是我的自我介绍：
 
@@ -44,10 +44,10 @@ print(np.array([1, 2, 3]) ** 2)
 其中执行`print(np.array([1, 2, 3]) ** 2)`可输出结果。
 
 ### 我最喜欢的环境管理工具是conda
-<img src="https://raw.githubusercontent.com/Winnie-Qi/dev_skills/main/images/pic1.jpg" width="800" alt="截图一">
+<img src="https://github.com/winwinqq/dev_skills/blob/main/c341729bcc57c88633a944653261925.png?raw=true" width="800" alt="截图一">
 
 ### 我可以在IDE上使用我建立的虚拟环境
-<img src="https://raw.githubusercontent.com/Winnie-Qi/dev_skills/main/images/pic2.jpg" width="800" alt="截图二">
+<img src="https://github.com/winwinqq/dev_skills/blob/main/17218fd30b29e157fb7d90581d7f0e8.png?raw=true" width="800" alt="截图二">
 
 欧拉公式可以表示为 $e^{i\pi} + 1 = 0$，这是一个著名的等式。
 
